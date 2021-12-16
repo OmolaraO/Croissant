@@ -1,0 +1,16 @@
+body {
+  background: rgb(251, 251, 140)
+}
+
+h1, p {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
+footer a {
+  margin: 5px;
+ 
+}
